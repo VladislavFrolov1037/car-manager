@@ -17,6 +17,10 @@
         "symfony/yaml": "8.0.*"
     },
     "require-dev": {
+        "doctrine/doctrine-bundle": "^3.2",
+        "doctrine/doctrine-migrations-bundle": "^4.0",
+        "doctrine/orm": "^3.6",
+        "symfony/maker-bundle": "^1.65"
     },
     "config": {
         "allow-plugins": {
